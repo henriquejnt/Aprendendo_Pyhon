@@ -1,3 +1,4 @@
+print('Calculo do IMC')
 peso = int(input('Qual o seu peso ? '))
 altura = float(input('Qual a sua altura ? '))
 print('\033[34;1m CALCULANDO O SEU IMC ....\033[m')
