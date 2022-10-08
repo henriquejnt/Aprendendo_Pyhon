@@ -1,0 +1,1 @@
+t = int(input("Digite o termo:"))
